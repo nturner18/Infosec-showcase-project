@@ -1,7 +1,7 @@
-# 🛡️ Infosec-showcase-project
+# Infosec-showcase-project
 Welcome! This is a collection of hands-on cybersecurity projects showcasing my technical skills, problem-solving abilities, and commitment to learning in the field of information security.
 
-## 🔍 About Me
+## About Me
 I'm a cybersecurity enthusiast focused on [e.g., threat hunting, risk management, or blue teaming]. This portfolio includes personal labs, research, and automation tools that reflect my journey through cybersecurity.
 
 - 🎓 [Information Technology Cyber Security, Bachelor of Science] | [A+, Sec+, CISSP (Associate of ISC2)]
